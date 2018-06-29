@@ -6,7 +6,7 @@ public class Customer
 
     private String lastName;
 
-    private int age;
+    private int age2;
 
     public String getFirstName()
     {
@@ -28,9 +28,9 @@ public class Customer
         this.lastName = lastName;
     }
 
-    public int getAge()
+    public int getAge2()
     {
-        return age;
+        return age2;
     }
 
 }
